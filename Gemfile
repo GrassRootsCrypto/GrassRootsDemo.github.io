@@ -1,4 +1,5 @@
 source "https://rubygems.org"
+
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
@@ -8,22 +9,34 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-gem "jekyll", "~> 4.1.1"
+
+
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-include-cache", group: :jekyll_plugin
+# gem "github-pages", group: :jekyll_plugins
+#gem "jekyll", "~> 4.1.1"
+#gem 'jekyll-include-cache'
+#gem "jekyll-remote-theme"
 #gem "minimal-mistakes-jekyll"
-gem 'jekyll-include-cache'
-# This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "~> 2.5"
-
-gemspec
 
 
+# The following plugins are automatically loaded by the theme-gem:
+#   gem "jekyll-paginate"
+#   gem "jekyll-sitemap"
+#   gem "jekyll-gist"
+#   gem "jekyll-feed"
+#   gem "jekyll-include-cache"
+#
+# If you have any other plugins, put them here!
+#group :jekyll_plugins do
+#end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
-platforms :mingw, :x64_mingw, :mswin, :jruby do
-    gem "tzinfo", "~> 1.2"
-    gem "tzinfo-data"
-  end
+#platforms :mingw, :x64_mingw, :mswin, :jruby do
+#    gem "tzinfo", "~> 1.2"
+#    gem "tzinfo-data"
+#  end
 
   
 # Performance-booster for watching directories on Windows
