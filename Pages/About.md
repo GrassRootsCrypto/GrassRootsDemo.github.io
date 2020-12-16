@@ -1,17 +1,16 @@
 ---
-permalink: /about/
+permalink: /Pages/About/
 title: "About"
+layout: single
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-layout: default
-
 toc: true
 ---
+
+Grass Roots Crypto was started to educate new users to the world of blockchain. After
 
 Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
 
 {% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
-
-[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
 
 ## Notable Features
 
@@ -42,12 +41,6 @@ Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your
 
 ## Credits
 
-### Icons + Demo Images:
-
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
-
 ### Other:
 
 - [Jekyll](https://jekyllrb.com/)
@@ -61,5 +54,3 @@ Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your
 - [Lunr](http://lunrjs.com)
 
 ---
-
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.

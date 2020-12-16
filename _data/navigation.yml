@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "New Page"
-    url: /newpage
+  - title: "Services"
+    url: /Pages/Services
   - title: "About"
-    url: /about
+    url: /Pages//About
 
   #- title: "External Link"
  #url: https://google.com

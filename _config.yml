@@ -20,7 +20,7 @@ locale                   : "en-US"
 title                    : "Grass Roots Crypto"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Chris"
+name                     : "Grass Roots Crypto"
 description              : "Crypto Education"
 url                      : https://github.com/bo8ster/GrassRootsDemo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -270,9 +270,9 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+   #posts
   - scope:
-      path: ""
+      path: "posts"
       type: posts
     values:
       layout: single
