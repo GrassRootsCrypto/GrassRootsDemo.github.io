@@ -1,9 +1,12 @@
 # main links
 main:
+  - title: Posts
+    url: /Pages/Posts
   - title: "Services"
     url: /Pages/Services
   - title: "About"
     url: /Pages//About
+  
 
   #- title: "External Link"
  #url: https://google.com

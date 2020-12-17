@@ -1,10 +1,11 @@
 ---
-layout: archive
+permalink: Pages/Posts/
+title: "My Services"
+layout: splash
+last_modified_at: 2017-10-20T12:42:38-04:00
 ---
 
-{{ content }}
-
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<h3 class="archive__subtitle">Recent Posts</h3>
 
 {% if paginator %}
   {% assign posts = paginator.posts %}
@@ -21,3 +22,5 @@ layout: archive
 
 
 {% include paginator.html %}
+
+
