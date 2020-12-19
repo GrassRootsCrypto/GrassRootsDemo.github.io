@@ -5,7 +5,9 @@ main:
   - title: "Services"
     url: /Pages/Services
   - title: "About"
-    url: /Pages//About
+    url: /Pages/About
+  - title: "Content to copy"
+    url: /Pages/ContentCopy
   
 
   #- title: "External Link"
