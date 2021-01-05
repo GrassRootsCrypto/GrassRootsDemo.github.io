@@ -1,10 +1,10 @@
 ---
 layout: splash
-author_profile: true
+title: "GrassRoots Crypto"
 ---
 
 
-## Education, Traning, Consulting, Advice
+## Education, Traning, Consulting, Advice, Defi
 
 GrassRoots Crypto is a company dedecticated to education to users in the crypto space. We understand how difficutlt it can be to find what you need to know, even with the power of google. 
 

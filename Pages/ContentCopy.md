@@ -36,5 +36,3 @@ At Crypto Connect, we also provide complimentary 15 minutes of crypto assistance
 
 All sessions are by appointments only, please contact us via phone or email to book in your private session.
 We also accepts payments in cryptocurrency, with the options of paying in Bitcoin, Litecoin or Ethereum.
-
-Return To The Learning Lab.

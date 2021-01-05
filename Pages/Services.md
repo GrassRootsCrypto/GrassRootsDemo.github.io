@@ -1,9 +1,9 @@
 ---
 permalink: Pages/Services/
-title: "My Services"
+title: "Services"
 layout: splash
 last_modified_at: 2017-10-20T12:42:38-04:00
-toc: true
+toc: false
 ---
 
 GrassRoots Crypto is a company dedicated to education to users in the crypto space. We understand how difficult it can be to find what you need to know, even with the power of google. 
@@ -20,6 +20,4 @@ About the only thing I can’t do is provide specific tax information :)
 - Blockchain Strategy
 - Defi – Liquidity Pools / Impermanent Loss
 - Trading – CEX and DEX
-
-
-- Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data.
+- How to earn interest on your coins.
